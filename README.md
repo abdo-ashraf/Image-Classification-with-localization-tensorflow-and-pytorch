@@ -13,3 +13,4 @@
     - training bounding box loss: 688.58
     - Validation accuracy: 100%
     - training bounding box loss: 802.32
+Note: I did not do image Augmentation
