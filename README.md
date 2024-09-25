@@ -1,3 +1,5 @@
+## Update: added classification-with-localization-pytorch-with-augmentation.ipynb
+- which contains pytorch model trained on whole caltech dataset with better performance and augmentation used using albumentation package
 # Image-Classification-with-localization
 - In this project i did Classification with localization (aka object localization)
 - I used portion of Caltech-101 dataset this protion was ['airplanes', 'Faces', 'Motorbikes']
