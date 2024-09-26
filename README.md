@@ -29,6 +29,8 @@ In this project, I implemented object classification with localization using the
 > **Note:** The bounding box loss is significantly smaller compared to the TensorFlow version due to normalization of the bounding box coordinates.
 
 ---
+![__results___32_0](https://github.com/user-attachments/assets/994bf7c0-8dbf-42b4-b80c-bab95ec7c8eb)
+---
 
 ## TensorFlow: Classification with Localization (Without Augmentation)
 
